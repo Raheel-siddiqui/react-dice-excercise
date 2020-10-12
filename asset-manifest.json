@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-dice-excercise/static/css/main.57b033b7.chunk.css",
+    "main.js": "/react-dice-excercise/static/js/main.4d3ebd23.chunk.js",
+    "main.js.map": "/react-dice-excercise/static/js/main.4d3ebd23.chunk.js.map",
+    "runtime-main.js": "/react-dice-excercise/static/js/runtime-main.42e1a82b.js",
+    "runtime-main.js.map": "/react-dice-excercise/static/js/runtime-main.42e1a82b.js.map",
+    "static/js/2.50b14857.chunk.js": "/react-dice-excercise/static/js/2.50b14857.chunk.js",
+    "static/js/2.50b14857.chunk.js.map": "/react-dice-excercise/static/js/2.50b14857.chunk.js.map",
+    "index.html": "/react-dice-excercise/index.html",
+    "precache-manifest.2ec1056a2def7a3dd0c403568305f678.js": "/react-dice-excercise/precache-manifest.2ec1056a2def7a3dd0c403568305f678.js",
+    "service-worker.js": "/react-dice-excercise/service-worker.js",
+    "static/css/main.57b033b7.chunk.css.map": "/react-dice-excercise/static/css/main.57b033b7.chunk.css.map",
+    "static/js/2.50b14857.chunk.js.LICENSE.txt": "/react-dice-excercise/static/js/2.50b14857.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-dice-excercise/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42e1a82b.js",
+    "static/js/2.50b14857.chunk.js",
+    "static/css/main.57b033b7.chunk.css",
+    "static/js/main.4d3ebd23.chunk.js"
+  ]
+}
